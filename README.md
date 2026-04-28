@@ -20,7 +20,7 @@ This project represents my front-end development skills and serves as my online 
 
 ### 📂 GitHub Repository
 
-https://github.com/abhinav2006-coder/Profile
+https://github.com/abhinav2006-coder/Portfolio
 
 ---
 
