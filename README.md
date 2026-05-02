@@ -28,4 +28,4 @@ This project demonstrates my ability to build responsive and interactive web int
 
 ---
 
-⭐ Feedback and suggestions are always welcome!
+**Feedback and suggestions are always welcome!**
