@@ -1,27 +1,31 @@
 **Personal Portfolio Website**
 
-A fully responsive personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and contact information.
+A fully responsive personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my profile, skills, and projects in a clean and modern interface.
 
 **Features**
 
-* Responsive design (mobile, tablet, desktop)
-* Smooth navigation and clean UI
-* Projects showcase section
-* Contact form integration
-* Modern and minimal layout
+* Responsive design for mobile, tablet, and desktop
+* Smooth scrolling and animated UI sections
+* Interactive skills carousel using JavaScript
+* Structured sections: Home, About, Skills, Projects, Contact
+* Contact form with basic validation
+* Integrated social and coding platform links
 
 **Tech Stack**
 
 HTML | CSS | JavaScript
 
+**Key Implementation**
+
+* Used **Flexbox & Grid** for layout design
+* Implemented **scrollable skill cards with navigation buttons**
+* Added **form validation using JavaScript**
+* Designed reusable components for better structure
+
 **Purpose**
 
-This project represents my front-end development skills and serves as my online portfolio for recruiters and collaborators.
-
-**GitHub Repository**
-
-https://github.com/abhinav2006-coder/Portfolio
+This project demonstrates my ability to build responsive and interactive web interfaces and serves as my personal portfolio for showcasing my development skills.
 
 ---
 
-**Feel free to explore and give feedback!**
+⭐ Feedback and suggestions are always welcome!
